@@ -1,0 +1,9 @@
+SUBE A LA RAÍZ DEL REPOSITORIO aXen-AI-Updates SOLO ESTOS DOS ARCHIVOS:
+
+1. channel.json
+2. Mi_IA_Update_1.0.3.zip
+
+Después, el canal que debes pegar en Mi IA es:
+https://raw.githubusercontent.com/Ewynk19791979/aXen-AI-Updates/main/channel.json
+
+Nunca subas tu clave API, memoria, settings.json ni proyectos.
